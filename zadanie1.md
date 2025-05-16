@@ -73,4 +73,6 @@ docker image history go-apka-1
 oraz jaki jest rozmiar obrazu:
 docker image inspect go-apka-1
 
+Screen z działania aplikacji:
+![image](https://github.com/user-attachments/assets/1428f352-675c-4fda-a137-31b90d421751)
 
